@@ -1,3 +1,7 @@
+package Week_01;
+
+import java.util.HashMap;
+
 class TowSum {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer,Integer> hashMap = new HashMap<>();
@@ -9,4 +13,5 @@ class TowSum {
         }
         return new int[]{};
     }
+
 }
