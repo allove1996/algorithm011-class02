@@ -1,11 +1,11 @@
-##学习笔记
+## 学习笔记
 先大概整理一下老师讲的内容：
 
 * Chunk it up
 * Deliberate Practicing 
 * Feedback
 
-###算法和数据结构总览
+### 算法和数据结构总览
 数据结构
 * 一维
   * 基础：数组（array），链表（linked list）
